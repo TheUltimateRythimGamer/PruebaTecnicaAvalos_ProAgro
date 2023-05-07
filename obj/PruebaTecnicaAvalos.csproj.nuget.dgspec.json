@@ -4,14 +4,14 @@
     "E:\\proyectos\\PruebaTecnicaAvalos\\PruebaTecnicaAvalos.csproj": {}
   },
   "projects": {
-    "E:\\proyectos\\Data\\Data.csproj": {
+    "E:\\proyectos\\PruebaTecnicaAvalos\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\proyectos\\Data\\Data.csproj",
+        "projectUniqueName": "E:\\proyectos\\PruebaTecnicaAvalos\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "E:\\proyectos\\Data\\Data.csproj",
+        "projectPath": "E:\\proyectos\\PruebaTecnicaAvalos\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "E:\\proyectos\\Data\\obj\\",
+        "outputPath": "E:\\proyectos\\PruebaTecnicaAvalos\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,14 +67,14 @@
         }
       }
     },
-    "E:\\proyectos\\Entity\\Entity.csproj": {
+    "E:\\proyectos\\PruebaTecnicaAvalos\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\proyectos\\Entity\\Entity.csproj",
+        "projectUniqueName": "E:\\proyectos\\PruebaTecnicaAvalos\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "E:\\proyectos\\Entity\\Entity.csproj",
+        "projectPath": "E:\\proyectos\\PruebaTecnicaAvalos\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "E:\\proyectos\\Entity\\obj\\",
+        "outputPath": "E:\\proyectos\\PruebaTecnicaAvalos\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -91,8 +91,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\proyectos\\Data\\Data.csproj": {
-                "projectPath": "E:\\proyectos\\Data\\Data.csproj"
+              "E:\\proyectos\\PruebaTecnicaAvalos\\Data\\Data.csproj": {
+                "projectPath": "E:\\proyectos\\PruebaTecnicaAvalos\\Data\\Data.csproj"
               }
             }
           }
@@ -166,8 +166,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\proyectos\\Entity\\Entity.csproj": {
-                "projectPath": "E:\\proyectos\\Entity\\Entity.csproj"
+              "E:\\proyectos\\PruebaTecnicaAvalos\\Entity\\Entity.csproj": {
+                "projectPath": "E:\\proyectos\\PruebaTecnicaAvalos\\Entity\\Entity.csproj"
               }
             }
           }
@@ -190,7 +190,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
